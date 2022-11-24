@@ -15,7 +15,16 @@ container > .ev{
     width: 70%;
     height: 70px;
     margin-inline:auto;
-    border: 1px solid black;
+    border: 2px solid black;
     border-radius: 10px;
     line-height: 70px;
+}
+
+container > .tw{
+    text-align: center;
+    margin-top: 10px;
+    width: 70%;
+    height: 140px;
+    margin-inline: auto;
+    border: 2px solid black;
 }
