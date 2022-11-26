@@ -27,4 +27,9 @@ container > .tw{
     height: 140px;
     margin-inline: auto;
     border: 2px solid black;
+    margin: auto;
+}
+
+container > .tw > .tw-1{
+    margin: auto;
 }
